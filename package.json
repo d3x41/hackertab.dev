@@ -12,7 +12,7 @@
     "axios": "^0.21.2",
     "axios-cache-adapter": "^2.7.3",
     "country-emoji": "^1.5.4",
-    "dompurify": "^2.2.7",
+    "dompurify": "^3.2.4",
     "htmlparser2": "^8.0.1",
     "jsonpath": "^1.1.1",
     "normalize.css": "^8.0.1",
